@@ -36,4 +36,18 @@
     .secondary-button{
         width: 100%;
     }
+    .big-feature-container{
+        flex-direction: column;
+    }
+    #spl-feature{
+        flex-direction: column-reverse;
+    }
+    .footer-container{
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
+    .link-column{
+        align-items: center;
+    }
 }
